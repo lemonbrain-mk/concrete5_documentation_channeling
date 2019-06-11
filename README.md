@@ -37,7 +37,7 @@ So if i have a problem with the documentation, i look in the Pre Documentation a
 #### Easy export
 This needs to be defined for every of this three channels. Maybe by addons or least copy/paste.
 
-## 2. Possible solution (mentioned from JohntheFish, written from lemonbtain at the moment)
+## 2. Possible solution (mentioned from JohntheFish, written from lemonbrain at the moment)
 Cause nobody likes to write documentation, he mentioned to use apps (in the best way one) for discussion which are well searchable by google. So the information gets by nature not lost.
 
 ### He wrote
