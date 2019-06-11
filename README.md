@@ -16,7 +16,7 @@ Stack Overflow -> documentation<br>
 Slack -> documentation<br>
 IRC -> documentation<br>
 
-## 1. possible Solution (mentioned from lemonbrain)
+## 1. Possible solution (mentioned from lemonbrain)
 This way should be published on concrete5.org and known from as many community member as possible to act like little police men. For a benefit for all of us and specially for new community members / Concrete5 users.
 
 ### Apps supported
@@ -32,4 +32,21 @@ It needs a easy export from this three apps to a pre documentation system (which
 
 So if i have a problem with the documentation, i look in the Pre Documentation and after this i ask in one of the three channels. After this it is my responsibillity to put it in the pre documentation and the respobsibillity from the community to tell me.
 
+## 2. Possible solution (mentioned from JontheFish, written from lemonbtain at the moment)
+Cause nobody likes to write documentation, he mentioned to use apps (in the best way one) for discussion which are well searchable by google. So the information gets by nature not lost.
 
+### He wrote
+We currently have 2 application requirements:
+1) A new forum for threaded discussion (with googlability)
+2) A chat app with history and googlability
+
+If we can combine the 2 into one application, so much the better as long as it does not involve too big a compromise on the fundamental characteristics of each. For example: A forum that provides instant response to users with the forum open in a browser, so any forum thread effectively becomes a chat stream. A chat app that provides threads and organisation like a forum would.
+
+Nevertheless, I would be happy with limited compromise in order to have it all in one application. One of the most damaging things to the concrete5 community is fragmentation. We currently have concrete5 presecene split across concrete5.org forums, slack, howtos, concretePHP google group, stackoverflow, bug reports, github issues, reddit, twitter, facebook, concrete5.org blog (are there others......).
+
+If you look at some of these, the torpid activity only serves to discredit concrete5 as a whole, while others fragment the community. If concrete5 is to be credible in the overall OS and CMS space, we need consolidation of the various communication channels to strengthen the community and the credibility of concrete5 as a whole.
+
+We will never achieve an all-in-one application. But perhaps with pruning of some of the near-dead channels and careful choice of an application to integrate others under an umbrella application (the new forum or chat), we can integrate communication sufficiently to make the whole community more cohesive.
+
+### Possible Apps
+Here a google spreadsheet will be linked with pro and contra for different possible apps to solve the requirements.
