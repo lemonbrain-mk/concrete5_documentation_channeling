@@ -1,5 +1,5 @@
 # Concrete5 documentation channeling
-Find a short workflow description to channeling all discussion apps back to the documentation.
+Find a short workflow description to channeling all discussion apps back to the documentation. This is just one part out of this [proposal](https://github.com/gondwanasoft/c5-doc-team), which we think should be done as a first step.
 
 ## Issue
 Normal way of documentation should be after some changing in the github:
